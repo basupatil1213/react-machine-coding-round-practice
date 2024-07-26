@@ -12,9 +12,9 @@ This is a simple OTP (One Time Password) form application built with React. The 
 
 ## Screenshots
 
-![OTP Form](./screenshots/otp-form.png)
-![OTP Verified](./screenshots/otp-verified.png)
-![OTP Verification Failed](./screenshots/otp-verification-failed.png)
+![OTP Form](./screenshots/otp-initial-screen.png)
+![OTP Verified](./screenshots/otp-success.png)
+![OTP Verification Failed](./screenshots/otp-failed.png)
 
 ## Description
 
