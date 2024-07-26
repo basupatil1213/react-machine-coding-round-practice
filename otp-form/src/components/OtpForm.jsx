@@ -34,12 +34,12 @@ const OtpForm = () => {
         inputRefs.current.forEach(input => {
             input.style.borderColor = 'red';
         });
-        // setTimeout(() => {
-        //     inputRefs.current.forEach(input => {
-        //         input.value = '';
-        //     });
-        //     inputRefs.current[0].focus();
-        // }, 1000);
+        setTimeout(() => {
+            inputRefs.current.forEach(input => {
+                input.value = '';
+            });
+            inputRefs.current[0].focus();
+        }, 1000);
     }
     }
     return (
