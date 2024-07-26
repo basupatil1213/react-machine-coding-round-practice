@@ -39,5 +39,5 @@ The OTP Form application is designed to provide a seamless user experience for m
    ```bash
    npm start
    ```
-5. Open your browser and visit `http://localhost:3000` to see the application in action.
+5. Open your browser and visit `http://localhost:5173` to see the application in action.
 
